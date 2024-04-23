@@ -1,0 +1,25 @@
+{
+  "name": "loalgo",
+  "version": "1.0.0",
+  "description": "A library to make algorithm's concise in code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WanderingObserver/loalgo.git"
+  },
+  "keywords": [
+    "Algorithm",
+    "util",
+    "stdlib",
+    "modules"
+  ],
+  "author": "Khaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WanderingObserver/loalgo/issues"
+  },
+  "homepage": "https://github.com/WanderingObserver/loalgo#readme"
+}
