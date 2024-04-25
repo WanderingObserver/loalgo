@@ -6,8 +6,8 @@ Homage to `lodash`, which makes methods concise.
 ## Search Algorithms Index Table
 | Search     | Function Name |
 | ----------- | ----------- |
-| Linear      | linear(arr, target)      |
-| Binary   | binary(arr, target)       |
+| Linear      | linear(int[] arr, int target)      |
+| Binary   | binary(int[] arr, int target, bool unordered)       |
 
 ## Sorting Algorithms Index Table
 | Sort     | Function Name |
