@@ -1,11 +1,10 @@
+const Search = require('./Search')
+const search = new Search()
+
 const algo = () => {
   return {
     intro: "Welcome to Lo Algorithm"
   }
-}
-
-const search = () => {
-  return "Search"
 }
 
 exports.algo = algo
