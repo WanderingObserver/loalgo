@@ -1,5 +1,8 @@
 const Search = require('./Search')
+const Sort = require('./Sort')
+
 const search = new Search()
+const sort = new Sort()
 
 const algo = () => {
   return {
@@ -9,3 +12,4 @@ const algo = () => {
 
 exports.algo = algo
 exports.search = search
+exports.sort = sort
